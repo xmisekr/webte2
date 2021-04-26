@@ -1,6 +1,7 @@
 <?php
     include("app/Database.php");
     echo "123";
+    echo "123456";
     // $conn = (new Database())->createConnection();
 
     // $sql = "SELECT * FROM zapocet_tabulka";
